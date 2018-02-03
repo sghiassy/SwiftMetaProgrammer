@@ -7,7 +7,7 @@ This is a simple Swift Hello World website using the
 
 ```shell
 $ swift build --configuration release
-$ ./.build/release/HelloWorld
+$ ./.build/release/SwiftMetaProgrammer
 Listening on 0.0.0.0:8000
 ```
 
@@ -23,10 +23,10 @@ Click the button below to automatically set up this example to run on your own H
 ### Options
 
 ```shell
-$ ./.build/release/HelloWorld --help
+$ ./.build/release/SwiftMetaProgrammer --help
 Usage:
 
-    $ ./.build/release/HelloWorld
+    $ ./.build/release/SwiftMetaProgrammer
 
 Options:
     --bind
@@ -34,5 +34,5 @@ Options:
 ```
 
 ```shell
-$ ./.build/release/HelloWorld --bind 127.0.0.1:8080
+$ ./.build/release/SwiftMetaProgrammer --bind 127.0.0.1:8080
 ```
