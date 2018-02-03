@@ -4,7 +4,8 @@
   "description": "A Small Web App to demonstrate using Swift Stenciles to Meta-Code Swift",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "swift build --configuration release",
+    "start": "yarn build; ./.build/release/HelloWorld"
   },
   "author": "Shaheen Ghiassy <shaheen.ghiassy@gmail.com>",
   "license": "MIT"

@@ -1,8 +1,8 @@
 {
-    "name": "Curassow Hello World Example",
+    "name": "Swift Meta Programmer",
     "description": "An example application using Swift on Heroku.",
-    "repository": "https://github.com/kylef/Curassow-example-helloworld",
-    "website": "https://github.com/kylef/Curassow-example-helloworld",
+    "repository": "https://github.com/sghiassy/SwiftMetaProgrammer.git",
+    "website": "https://github.com/sghiassy/SwiftMetaProgrammer.git",
     "keywords": [
         "swift",
         "curassow"
