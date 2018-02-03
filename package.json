@@ -4,6 +4,8 @@
   "description": "A Small Web App to demonstrate using Swift Stenciles to Meta-Code Swift",
   "scripts": {
     "build": "swift build --configuration release",
+    "clean": "rm -rf .build",
+    "publish": "git push heroku master",
     "start": "yarn build; ./.build/release/SwiftMetaProgrammer"
   },
   "author": "Shaheen Ghiassy <shaheen.ghiassy@gmail.com>",
