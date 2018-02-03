@@ -1,0 +1,11 @@
+{
+  "name": "swiftmetacoderweb",
+  "version": "1.0.0",
+  "description": "A Small Web App to demonstrate using Swift Stenciles to Meta-Code Swift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaheen Ghiassy <shaheen.ghiassy@gmail.com>",
+  "license": "MIT"
+}
